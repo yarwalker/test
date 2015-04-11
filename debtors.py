@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# __author__ = 'avs'
+__author__ = 'avs'
 
 fileName = input('Введите путь до файла:')
 fin = open(fileName, 'r')
