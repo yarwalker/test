@@ -30,3 +30,5 @@ table_exp += '</tbody></table>'
 
 fout = open( 'exp_debtors.txt', 'w' )
 fout.write( table_exp )
+
+
